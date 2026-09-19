@@ -3,7 +3,7 @@
   "Connection": "Connection",
   "Host": "Host",
   "Port": "Port",
-  "Interval": "Click interval (ms)",
+  "Interval": "Click! interval (ms)",
   "Hold": "Hold (ms)",
   "Jitter": "Random click interval (±ms)",
   "Hotkey": "Hotkey",
