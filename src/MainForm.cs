@@ -10,7 +10,7 @@ namespace OSCAutoClicker;
 
 internal sealed class MainForm : Form
 {
-    private const string ClickAddress = "/input/UseRight";
+    private const string ClickAddress = "/input/UseAxisRight";
     private const string GithubUrl = "https://github.com/aeongdesu/OSCAutoClicker";
 
     private const int WmHotkey = 0x0312;
